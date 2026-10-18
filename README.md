@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Ark 👋
 
-<!--
-**arkaydeus/arkaydeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building AI-powered applications, developer tools, and automation.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Orkestrator](https://github.com/orkestrator-ai/orkestrator-v2)** — AI agent orchestration
+- **AI Agents** — Autonomous workflows and intelligent assistants
+- **Developer Tools** — Making software development faster and easier
+
+### 🛠️ Tech Stack
+
+TypeScript · React · Next.js · Python · Rust · Bun · PostgreSQL · Vercel
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkaydeus&show_icons=true)
+
+### 🔗 Links
+
+[GitHub](https://github.com/arkaydeus)
