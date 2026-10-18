@@ -12,10 +12,6 @@ Software engineer building AI-powered applications, developer tools, and automat
 
 TypeScript · React · Next.js · Python · Rust · Bun · PostgreSQL · Vercel
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkaydeus&show_icons=true)
-
 ### 🔗 Links
 
 [GitHub](https://github.com/arkaydeus)
