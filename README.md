@@ -7,6 +7,8 @@ Software engineer building AI-powered applications, developer tools, and automat
 - **[Orkestrator](https://github.com/orkestrator-ai/orkestrator-v2)** - Opensource containerised AI agent orchestration
 - **[VulkanGlass](https://github.com/arkaydeustech/vulkanglass)** - Opensource markdown editor
 - **[Ark Voice CLI](https://github.com/arkaydeus/ark-voice-cli)** - Ark Voice is local speech recognition and English speech synthesis on Apple Silicon
+- **[MyScreenCam](https://github.com/arkaydeus/myscreencam)** - Screen recordings that look finished
+
 
 ### My interests
 - **AI Agents** — Autonomous workflows and intelligent assistants
